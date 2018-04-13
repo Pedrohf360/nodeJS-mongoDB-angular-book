@@ -1,8 +1,10 @@
-MY FIRST PUBLISH REPOSITORY!
+#CENSOR MODULE
 
-Really cool =D
+##MY FIRST PUBLISH REPOSITORY!
 
-CENSOR YOUR FAVORITE TEXTS
+*Really cool =D*
+
+##CENSOR YOUR FAVORITE TEXTS
 
 With this module you can censor that text writed by a son of a *****.
 
