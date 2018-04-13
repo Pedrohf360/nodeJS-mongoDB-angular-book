@@ -1,10 +1,11 @@
-#CENSOR MODULE
+nodeJS-mongoDB-angular-book
+# CENSOR MODULE
 
-##MY FIRST PUBLISH REPOSITORY!
+## MY FIRST PUBLISH REPOSITORY!
 
 *Really cool =D*
 
-##CENSOR YOUR FAVORITE TEXTS
+## CENSOR YOUR FAVORITE TEXTS
 
 With this module you can censor that text writed by a son of a *****.
 
