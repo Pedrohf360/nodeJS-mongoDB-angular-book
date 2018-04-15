@@ -1,12 +1,7 @@
-nodeJS-mongoDB-angular-book
-# CENSOR MODULE
+# Content of NodeJS, MongoDB and Angular - Web Development (book)
 
-## MY FIRST PUBLISH REPOSITORY!
+    Exercises, annotations and other things about the book of Brad Dayley, Brendan Dayley and Caleb Dayley.
 
-*Really cool =D*
+## Content division
 
-## CENSOR YOUR FAVORITE TEXTS
-
-With this module you can censor that text writed by a son of a *****.
-
-Methods: censor(string), addCensoredWord(string), getCensoredWords().
+    Branchs with the content of each part of the course.
